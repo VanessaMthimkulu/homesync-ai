@@ -1,0 +1,7 @@
+{
+  "name": "HomeSync AI",
+  "description": "An AI-powered house manager to streamline family life with smart chore assignments, shared lists, calendar integration, and homework help.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
